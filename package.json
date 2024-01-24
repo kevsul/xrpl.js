@@ -1,6 +1,6 @@
 {
   "name": "xrpl.js",
-  "private": true,
+  "private": false,
   "scripts": {
     "test": "lerna run test --stream",
     "test:browser": "lerna run test:browser --stream",
